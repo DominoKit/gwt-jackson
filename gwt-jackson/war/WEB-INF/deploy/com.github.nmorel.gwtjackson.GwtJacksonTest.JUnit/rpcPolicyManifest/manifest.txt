@@ -1,0 +1,2 @@
+# Module com.github.nmorel.gwtjackson.GwtJacksonTest.JUnit
+# RPC service class, partial path of RPC policy file

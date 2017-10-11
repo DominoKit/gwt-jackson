@@ -33,6 +33,8 @@
     <module>gwt-jackson</module>
     <module>extensions</module>
     <module>examples</module>
+    <module>gwt-jackson-processor</module>
+    <module>gwt-jackson-test-shared</module>
   </modules>
 
   <name>gwt-jackson :: Parent</name>
